@@ -1,34 +1,3 @@
-<h1 align="center">Hi, I'm Abdul Ashif 👋</h1>
-<h3 align="center">
-Frontend / Full-Stack Engineer • Automation • Cloud-Based Products
-</h3>
-
-<p align="center">
-Computer Science Engineer with experience in building production-ready web applications, 
-automation workflows, and cloud-driven solutions using modern frameworks.
-</p>
-
-<p align="center">
-📍 Chennai, India &nbsp;•&nbsp; 💼 Open to Full-Time / Internship Roles
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-ashif-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
-  </a>
-  <a href="https://github.com/Ashif52">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github">
-  </a>
-  <a href="mailto:bashajafer36@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail">
-  </a>
-  <a href="https://ashif52.github.io/Abdul-Ashif-personal-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-green?logo=vercel">
-  </a>
-</p>
-
-<hr/>
-
 ## 👋 Abdul Ashif S
 🎯 Frontend / Full-Stack Engineer | Automation & Cloud-Based Products
 
@@ -49,6 +18,16 @@ Strong in building scalable frontend applications and full-stack systems using m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/abdul-ashif-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Ashif52)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:bashajafer36@gmail.com)
+
+---
+
+### 🌐 Portfolio
+
+🚀 **Live Portfolio Website**  
+Showcasing my projects, skills, and experience with live demos and case studies.
+
+🔗 **Visit here:**  
+👉 https://ashif52.github.io/Abdul-Ashif-personal-portfolio/
 
 ---
 
