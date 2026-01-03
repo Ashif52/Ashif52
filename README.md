@@ -58,12 +58,6 @@ Showcasing my projects, skills, and experience with live demos and case studies.
 
 ---
 
-### 📊 GitHub Stats
-![Ashif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashif52&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashif52&layout=compact&theme=dark)
-
----
-
 ### 🚀 Featured Projects
 
 **🔹 URL Shortener**  
